@@ -3,10 +3,11 @@ Wij zijn vooral bezig geweest met het maken van de domeinnaam en het installeren
 Waar sta ik vast: Hoe open ik mijn domein in VSCode?
 
 Vragen van vandaag:
-Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
+
+1. Leg uit wat een source hosting platform is en voor welke jij gekozen hebt.
 Een source hosting platform is een platform dat de website 'hoste' zodat jij gemakkelijker een website kan ontwerpen, ik gebruik Github.
-Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
+2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
 Ik heb mijn eigen naam gebruikt; Marnie-MB-Rekveld.nl om het eventueel later de gaan gebruiken voor mijn portfolio. Dit heb ik gedaan via TransIP, ik heb de domeinnaam geclaimt en gekocht en gekoppeld aan GitHub en Visual Studio Code.
 <img width="1117" height="170" alt="image" src="https://github.com/user-attachments/assets/6420519d-6801-4ded-bd4b-3a23aeb853cf" />
-Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
+3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 Met behulp van Visual Studio Code ga ik mijn website ontwerpen, als ik heb na wat aanpassingen online zet kan ik zien hoe de code zich vertaald naar visuele elementen.
