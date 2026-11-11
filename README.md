@@ -1,3 +1,11 @@
+
+11 november (woensdag); Practica interactie: MMD, micro-interacties, forms
+
+Nicky heeft de presentatie gegeven over interactie, veel wist ik al en was meer een refresher.
+
+
+
+
 9 november (maandag); Kick-off
 
 Wij zijn vooral bezig geweest met het maken van de domeinnaam en het installeren van de benodigde applicaties, en vooral wachten tot dat TransIP mijn domein de wereld in stuurd. Wat uiteindelijk nog is gelukt voordat de les voorbij is. Ook heb ik de website kunnen openen in VSCode en opgeslagen op mijn laptop zodat ik kan beginnen met code schrijven.
