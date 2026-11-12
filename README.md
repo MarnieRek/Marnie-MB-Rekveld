@@ -1,9 +1,9 @@
 
 11 november (woensdag); Practica interactie: MMD, micro-interacties, forms
 
-Nicky heeft de presentatie gegeven over interactie, veel wist ik al en was meer een refresher.
+Nicky heeft de presentatie gegeven over interactie, veel wist ik al en het was meer een refresher.
 
-
+Charley gaf ook haar presentatie en gaf meerdere korte teken opdrachten om makkelijker en beter een wireframe te maken.
 
 
 9 november (maandag); Kick-off
