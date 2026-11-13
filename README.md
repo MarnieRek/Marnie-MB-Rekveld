@@ -1,3 +1,4 @@
+<img width="1552" height="891" alt="image" src="https://github.com/user-attachments/assets/b03a8478-a47a-4800-a94f-8303a1d97d90" />
 
 11 november (woensdag); Practica interactie: MMD, micro-interacties, forms
 
