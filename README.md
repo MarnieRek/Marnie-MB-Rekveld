@@ -1,6 +1,17 @@
 17 november (dinsdag); huiswerk
 Ik ben vandaag aan de slag gegaan met de practica: Dark & Light.
 
+Oefening 1:
+![Oefening 1 light-dark](image-5.png)
+
+Oefening 2:
+https://codepen.io/editor/Marnie-Rekveld/pen/01a1ea59-2992-71d9-9b28-d683bfd7241b.
+
+Oefening 3:
+~~
+
+En om morgen te kunnen presenteren heb ik een aantal foto's bij elkaar gehaald en in 
+
 16 november (maandag); Sprint 1 
 
 Na deze ReadMe goed te 'comitten' naar Github heb ik al mijn technische vragen destijds opgelost. 
@@ -15,7 +26,7 @@ Check-out:
 Het is nooit af en kan maanden zonder update, ook hoef je niet aan standaard regels te houden zoals een social media format.
 
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
-Hoe meer interacties en werkende knoppen(hovers, dark/light etc.). De website jen.dev spreekt mij het meest aan omdat het een game uiterlijk heeft, niet te veel uit of de box maar wel alles erin verwerkt en dus een goed navigerende website.
+Hoe meer interacties en werkende knoppen(hovers, dark/light etc.). De website jen.dev (https://jen.dev/) spreekt mij het meest aan omdat het een game uiterlijk heeft, niet te veel uit of de box maar wel alles erin verwerkt en dus een goed navigerende website.
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.) Wat ik ook zei bij de vorige vraag; een website met een UI van een game wat veel interactieve knoppen heeft.
 
 
