@@ -1,8 +1,28 @@
+18 november (woensdag); Workshop
+
+Presenteren voor klasgenoten en de volgende vragen beantwoorden.
+Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​Het gevoel dat de foto's overbrengen.
+
+Heeft 'de ander' een aanvulling op je onderwerp?​ Bedenk alvast kopjes en wat voor werk je wilt laten zien als inhoud voor de website.
+
+Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​ Mysterieus, elegant en natuurlijke uitstraling met een rustgevende en magische karakter.
+
+Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz. Scandinavische architectuur en eco-futuristisch met royaal detail.
+
+Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​Ik wil veel 'achtergrond elementen' laten bewegen zodat het er levendiger uit ziet. Ik wil experimenten met het uiterlijk van een knop.
+
+Vul deze zin aan:
+Ik wil mijn Digital Garden laten gaan over (eco-futurusism) Architectuur.
+en wil dat laten zien door veel groen en patronen aan content te tonen.
+Ik begin met een stukje eigen content over Wat is het, en wat vind ik er specifiek mooi aan. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door het verder te uitwerken als mijn portfolio met een mooi jasje.
+
 17 november (dinsdag); huiswerk
+
 Ik ben vandaag aan de slag gegaan met de practica: Dark & Light.
 
 Oefening 1:
-![Oefening 1 light-dark](image-5.png)
+<img src="../readme-images/image-5.png" alt="Oefening 1 dark en light">
 
 Oefening 2:
 https://codepen.io/editor/Marnie-Rekveld/pen/01a1ea59-2992-71d9-9b28-d683bfd7241b.
@@ -10,7 +30,7 @@ https://codepen.io/editor/Marnie-Rekveld/pen/01a1ea59-2992-71d9-9b28-d683bfd7241
 Oefening 3:
 ~~
 
-En om morgen te kunnen presenteren heb ik een aantal foto's bij elkaar gehaald en in 
+En om morgen te kunnen presenteren heb ik een aantal foto's bij elkaar gehaald en in de presentatietemplate gedaan.
 
 16 november (maandag); Sprint 1 
 
@@ -36,16 +56,17 @@ Vasilis liet ons de opdrachten van het DLO maken terwijl hij rond liep voor vrag
 Er ging veel mis want je wordt gelijk het diepe in gegooit zonder voorkennis, veel waren ook spellingsfouten en codepen.io wou op een gegeven moment niks meer opslaan.
 
 De 2e practica van Sanne ging wat soepeler en hoefte maar een paar aanpassingen te doen aan het werk dat ik al zelf thuis had gedaan.
-![Oefening 1 fonts](image.png)
+<img scr="../readme-images/image.png" alt="Oefening 1 fonts">
+
 De 2e oefening was het namaken van motivational quotes.
-![Oefening 2 fonts](image-4.png)
+<img scr="../readme-images/image-4.png" alt="Oefening 2 fonts">
 
 12 november (donderdag); huiswerk
 
 Ter voorbereiding voor de practia lessen vrijdag heb een ingelogd in mijn codepen.io account en een lege pagina aangemaakt met de volgende eisen:
-![Kale html pagina](image-2.png)
+<img scr="../readme-images/image-2.png" alt="Kale html pagina">
 En geprobeerde de eerste oefening van de 2e les te maken maar het werkte maar niet.
-![Oefening 1 foutmeldingen](image-1.png)
+<img scr="../readme-images/image-1.png" alt="Oefening 1 foutmelingen">
 
 11 november (woensdag); Practica interactie: MMD, micro-interacties, forms en Schetsen van o.a. interactie en animatie
 
@@ -63,6 +84,6 @@ Check-out:
 Een source hosting platform is een platform dat de website 'hoste' zodat jij gemakkelijker een website kan ontwerpen, ik gebruik Github.
 2. Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.
 Ik heb mijn eigen naam gebruikt; Marnie-MB-Rekveld.nl om het eventueel later de gaan gebruiken voor mijn portfolio. Dit heb ik gedaan via TransIP, ik heb de domeinnaam geclaimt en gekocht en gekoppeld aan GitHub en Visual Studio Code.
-![<img width="1117" height="170" alt="Domeinnaam" src="https://github.com/user-attachments/assets/6420519d-6801-4ded-bd4b-3a23aeb853cf" />](image-3.png)
+<img scr="../readme-images/image-3.png" alt="Domeinnaam goedkeuring">
 3. Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.
 Met behulp van Visual Studio Code ga ik mijn website ontwerpen, als ik heb na wat aanpassingen online zet kan ik zien hoe de code zich vertaald naar visuele elementen.
