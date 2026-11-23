@@ -3,11 +3,75 @@
 **************************/
 
 @font-face {
-  font-family: "Comic Relief";
-  src: url(../fonts/ComicRelief-Regular.woff2);
+  font-family: "colitez";
+  src: url(../fonts/colitez-serif/ColitezSerif-Italic.otf);
   font-weight: 400;
   font-style: normal;
 }
+
+@font-face {
+  font-family: "compagnon";
+  src: url(../fonts/compagnon/Compagnon-Roman.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "fallin";
+  src: url(../fonts/fallin-for-you-script/Fallin\ For\ You\ Script.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "fathan";
+  src: url(../fonts/fathan/Fathan-DisplaySerif.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "flowmery";
+  src: url(../fonts/flowmery/Flowmery-Regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "hackensack";
+  src: url(../fonts/hackensack/Hackensack-SemiBold.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "jastyka";
+  src: url(../fonts/jastyka/Jastyka.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "kingjola";
+  src: url(../fonts/kingjola/kingjola.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "league";
+  src: url(../fonts/league-script/LeagueScript.ttf);
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "pauline";
+  src: url(../fonts/pauline_script/pauline\ script.otf);
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 /**************************
 * MARK: Custom properties
@@ -31,15 +95,38 @@ img {
   max-width: 100%;
 }
 
-body {
-  font-family: "Comic Relief", system-ui;
+h1 {
+  font-family: "league", system-ui;
+  font-size: 4em;
+  color: rgb(143, 80, 29);
+  text-shadow: 8px 8px 15px darkgreen;
 }
 
+.nav h1{
+  display: flex;
+  float: right;
+}
+
+h2 {
+  font-family: "colitez";
+  letter-spacing: .1em;
+  color: darkgreen;
+}
+
+p {
+  font-family: "hackensack";
+  letter-spacing: .1em;
+  color: beige;
+  font-size: 1.5em;
+}
 /**************************
 * MARK: Header
 **************************/
 
 header {
+  /* display: flex; */
+
+  
 }
 
 /**************************
@@ -47,13 +134,28 @@ header {
 **************************/
 
 footer {
+  background-color: beige;
+  margin: 5px 0 20px 5px;
 }
 
 /**************************
 * MARK: Main
 **************************/
+body {
+  background-image: url(../images/background\ digital\ garden\ sprint\ 1.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 
 main {
+  max-width: 50em;
+  height: 400vh;
+  
+}
+
+article {
+  text-align: center;
+  align-items: center;
 }
 
 /**************************
