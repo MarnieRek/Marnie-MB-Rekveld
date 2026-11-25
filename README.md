@@ -25,9 +25,9 @@ Oefening 1: https://codepen.io/editor/shooft/pen/01a04a4d-5be3-7557-9ec9-12ecad9
 
 t/m som 10, toen liep ik vast (zelfs met het bekijken van de uitwerking).
 
-Oefening 2:
+Oefening 2: https://codepen.io/editor/Marnie-Rekveld/pen/01a20ff5-fcf9-72fa-805a-d07593966aa4
 
-Oefening 3:
+Oefening 3: https://codepen.io/editor/Marnie-Rekveld/pen/01a211d0-f53b-728c-8fe4-0df44ee18f7c
 
 Oefening 4:
 
