@@ -1,3 +1,15 @@
+23 november (maandag); werkgroep
+
+Check-out:
+1.  Leg uit wanneer een website 'lelijk' wordt en geef voorbeelden wat je kan doen om deze 'lelijke' onderdelen te fixen? 
+
+Wanneer de teksten en plaatjes *vrij* bewegen wanneer je het scherm verkleint of vergroot, dat is op te lossen door er een hoogte en breedte aan te geven die vast staan. (responsive)
+
+2.  Vertel welke volgende stap je neemt om je website responsive te maken.
+
+3.  Kun je het ontwerp en de bouw van je eigen Garden (zo uit je hoofd) onderbouwen in Webby vocabulair?
+
+---
 
 20 november (vrijdag); werkgroep
 
@@ -6,6 +18,20 @@ Thuis heb ik de mobile schermen geschets op basis van mijn crazy 8 en die heb ik
 Samen met Diederik heb ik het visuele aspect overlegt en mijn visie en inhoud duidelijk gemaakt. Ik ben van plan dit weekend alvast bezig te gaan met het designen van de achtergrond elementen en iconen.
 
 Ik heb een aantal fonts gevonden die ik vind passen bij mijn thema en kleurpalet had ik tijdens de visuel research les woensdag al gevonden, een dark versie zijn dezelfde kleuren maar dan wat tinten donkerder.
+
+Practica Grid 101 + Media queries 101:
+
+Oefening 1: https://codepen.io/editor/shooft/pen/01a04a4d-5be3-7557-9ec9-12ecad908a03
+
+t/m som 10, toen liep ik vast (zelfs met het bekijken van de uitwerking).
+
+Oefening 2:
+
+Oefening 3:
+
+Oefening 4:
+
+
 
 ---
 18 november (woensdag); Workshop
@@ -32,6 +58,16 @@ Bespreek in duo's
 3. Is het idee online te vertalen? Hoe zouden vorm/ kleur of typografie in een schermontwerp kunnen worden getoond?
 4. Is het idee expressief? Zit er genoeg uitdaging is? Ga je hiermee nieuwe CSS technieken leren? Zie je animaties of transities voor je?
 5. Is het idee leuk en verrassend? Heb je zin om 'dit ontwerp' te maken?
+
+Practica: mooie kleuren en gradients (thuis)
+
+Oefening 1: https://codepen.io/editor/Marnie-Rekveld/pen/01a20ee1-ffc5-774d-9273-08be1ce1d9c2
+
+Oefening 2: https://codepen.io/editor/Marnie-Rekveld/pen/01a20eff-2855-7432-932d-9746b1214ad1
+
+Oefening 3: https://codepen.io/editor/Marnie-Rekveld/pen/01a20f45-275c-7191-8a37-be2fcc141593
+
+
 
 Check-out:
 1. Leg uit waar het Visual Research in 3 stappen naartoe werkt.
