@@ -134,12 +134,15 @@ a {
 
 header {
   display: grid;
-  grid-template-columns: max-content 1fr 80px 10px;
+  grid-template-columns: max-content 1fr max-content;
   grid-template-rows: auto auto;
   align-items: start;
   background-color: beige;
   opacity: 80%;
   padding: 1em;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 header h1 {
@@ -150,20 +153,16 @@ header h1 {
   
 }
 
-header nav {
-  grid-column: 3;
-  grid-row: 1 / 2;
-  justify-self: end;
-  align-self: end;
-}
-
 header p {
   grid-column: 1;
   grid-row: 2;
   align-items: center;
   color: darkgreen;
   margin: 0px 0px 0px 40px;
+
 }
+
+
 
 /* header img{
   grid-column: 4;
@@ -180,11 +179,65 @@ header p {
 }
 
 .menu-button img {
-  width: 75px;
+  width: 50px;
   height: auto;
   display: block;
   grid-column-start: 3;
 }
+/* .hide {
+ display: none;
+   } */
+
+
+ &.is-open{ 
+  background-image: url(../images/icon\ lily\ open\ small.webp);
+ }
+
+
+/* .menu-closed img {
+  width: 50px;
+  height: auto;
+  display: block;
+  grid-column-start: 3;
+}
+
+.menu-open {
+  display: none;
+  width: auto;
+  height: auto;
+  display:
+  
+} */
+
+.menu-nav {
+  position: fixed;
+  right: 0;
+
+  width:100%;
+  max-width:24em;
+  aspect-ratio: 1/1;
+  background-color: olive;
+
+  /* translate: 0 calc(-110% - 8.625em); */
+
+  translate:100% 0;
+  z-index: 20;
+  transition: translate .5s;
+
+}
+
+.menu-nav.is-open{ 
+    translate: 0 0;
+    
+  }
+
+  .menu-nav ul {
+    margin: 0;
+    font-size: 1.2em;
+    line-height: 1.8em;
+    padding: 2em;
+    list-style: none;
+  }
 
 header ul {
   grid-column: 3;
@@ -199,6 +252,7 @@ header ul {
 **************************/
 
 footer {
+  /* position: relative; */
   background-color: beige;
   opacity: 80%;
   display: grid;
@@ -224,6 +278,9 @@ footer a{
 
 
 footer nav {
+  /* position: absolute;
+  top: 0;
+  left: 0; */
   grid-column: 1;
   grid-row: 1;
 }
@@ -271,7 +328,7 @@ footer nav {
 }
 
 /**************************
-* MARK: Main
+* MARK: Body & Main
 **************************/
 body {
   background-image: url(../images/background\ digital\ garden\ sprint\ 1.webp);
